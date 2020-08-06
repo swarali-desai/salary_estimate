@@ -102,7 +102,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                         try:
                             role = driver.find_element_by_xpath('//*[@id="Details"]/div[1]/div[2]/div/div[1]/div[2]/div[1]/div/div[1]/div[1]').text
                             role = set(str(role).lower())
-                            ds = set('nlp engineer')
+                            ds = set('data scientist')
                             # engg = 'AI engineer'
                             if len(role.intersection(ds)) > 0 :
                                 # print('role found and matched')

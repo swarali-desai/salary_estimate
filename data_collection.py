@@ -10,8 +10,9 @@ path = "C:/Program Files (x86)/chromedriver.exe"
 4. Deep learning engineer : 75
 5. Business Analyst: 75
 6. Big Data Engineer: 75
+7. NLP engineer : 75
 '''
-df = gs.get_jobs('NLP Engineer',75, False, path, 15)
+df = gs.get_jobs('Data scientist',150, False, path, 15)
 
 
-df.to_csv('glassdoor_jobs_NLP.csv', index = False)
+df.to_csv('glassdoor_jobs_ds.csv', index = False)
