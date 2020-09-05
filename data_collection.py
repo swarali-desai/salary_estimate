@@ -1,3 +1,9 @@
+'''
+part of project salary estimate for data science roles
+author: Swarali Desai
+dated: 08/08/2020
+'''
+
 import glassdoor_webscrapper as gs
 import pandas as pd 
 
