@@ -7,6 +7,8 @@
     
       1. changes made for the Indian glassdoor webpage (https://www.glassdoor.co.in/)
       2. salary estimate extraction from the salary tab for data scientist
+      
+- Code productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 - Project Inspiration: 
 1. Github: https://github.com/PlayingNumbers/ds_salary_proj
