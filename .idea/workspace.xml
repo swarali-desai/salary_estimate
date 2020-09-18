@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8b59304-382f-4311-9f05-f752c4d776b5" name="Default Changelist" comment="" />
+    <list default="true" id="a8b59304-382f-4311-9f05-f752c4d776b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/flaskAPI/streamlit_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskAPI/streamlit_app.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flaskAPI/streamlit_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="20" column="106" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="20" selection-end-column="106" />
+            <state>
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -53,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/data_collection.py" />
         <option value="$PROJECT_DIR$/data_modelling.py" />
+        <option value="$PROJECT_DIR$/flaskAPI/streamlit_app.py" />
       </list>
     </option>
   </component>
@@ -131,7 +134,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -161,16 +163,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskAPI/streamlit_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="20" column="106" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="20" selection-end-column="106" />
+        <state>
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
