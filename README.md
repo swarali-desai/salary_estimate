@@ -37,16 +37,16 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 * Created separate columns for skills mentioned such as Python, R, AWS, Spark, database, R studio, Tableau, Tensorflow, NLTK, Power BI, Excel, Hadoop, Azure, scikit-learn, etc.
 * another column for degree requirement.
 * Simplified job roles into broader categories.
-   1.Data scientist
-   2.Data analyst
-   3.Machine learning Engineer
-   4.Big data engineer
-   5.Data engineer
-   6.NLP engineer
-   7.AI engineer
-   8.manager
-   9.director
-   10.business analyst
+   1. Data scientist
+   2. Data analyst
+   3. Machine learning Engineer
+   4. Big data engineer
+   5. Data engineer
+   6. NLP engineer
+   7. AI engineer
+   8. manager
+   9. director
+   10. business analyst
 * Column for description length.
 Final cleaning reduced the the csv to 594 columns. Thus the data on which the model is trained is very small.
 
