@@ -8,15 +8,14 @@ This is an end-to-end data science project for salary estimation of any data sci
 * Linear regression, Lasso regression and random forest regression models were used,Random forest performed the best ( MAE ~ 45k Rs). 
 * Built Flask API endpoint was created.
 * Created a webapp using streamlit and python.
----
+
 ## Getting Started
 * Install all the packages required: flaskAPI/requirements.txt
 * Get the virtual environment running
 * Run the Flask API from command line
-   *python flaskAPI/wsgi.py
+.. _python flaskAPI/wsgi.py_
 * Run the streamlit app from command line
-   *streamlit run flask/streamlitapp.py
-
+.. _streamlit run flask/streamlitapp.py_
 
 ## Web scrapping
 Using selenium and python managed to scrape folling parameters from glassdoor for data science roles
