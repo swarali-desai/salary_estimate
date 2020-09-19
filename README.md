@@ -13,9 +13,9 @@ This is an end-to-end data science project for salary estimation of any data sci
 * Install all the packages required: flaskAPI/requirements.txt
 * Get the virtual environment running
 * Run the Flask API from command line
-.. _python flaskAPI/wsgi.py_
+..._python flaskAPI/wsgi.py_
 * Run the streamlit app from command line
-.. _streamlit run flask/streamlitapp.py_
+..._streamlit run flask/streamlitapp.py_
 
 ## Web scrapping
 Using selenium and python managed to scrape folling parameters from glassdoor for data science roles
