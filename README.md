@@ -13,9 +13,9 @@ This is an end-to-end data science project for salary estimation of any data sci
 * Install all the packages required: flaskAPI/requirements.txt
 * Get the virtual environment running
 * Run the Flask API from command line
->> python flaskAPI/wsgi.py
+   *python flaskAPI/wsgi.py
 * Run the streamlit app from command line
->> streamlit run flask/streamlitapp.py
+   *streamlit run flask/streamlitapp.py
 
 
 ## Web scrapping
